@@ -7,4 +7,4 @@
 ![Heatmap](images/customer_churn_heatmap.png)
 
 ## Confusion Matrix
-![Confusion Matrix](images/churn_confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
