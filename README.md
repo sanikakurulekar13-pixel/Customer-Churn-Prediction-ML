@@ -1,10 +1,10 @@
 # Sample Visualizations
 
-## Customer Churn Distribution
-![Churn](images/churn_distribution.png)
+## Churn Distribution
+![Churn](images/customer_churn_distribution.png)
 
 ## Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](images/customer_churn_heatmap.png)
 
 ## Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/churn_confusion_matrix.png)
